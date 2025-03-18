@@ -1,7 +1,5 @@
 # 👋 Olá, sou João Pedro
 
-**`Desenvolvedor FullStack`**
-
 Me chamo João Pedro, sou apaixonado por tecnologia e desenvolvimento de software. Ao longo da minha jornada, venho me aprofundando em diversas ferramentas e linguagens de programação. No momento, estou focado em aprimorar minhas habilidades em web development, com ênfase em tecnologias como PHP, HTML, CSS, JavaScript e outras.
 
 Se você se interessa por projetos de software e desenvolvimento web, fique à vontade para explorar meus repositórios e contribuições. Estou sempre em busca de aprender e compartilhar conhecimento!
