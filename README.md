@@ -1,6 +1,6 @@
 # 👋 Olá, sou João Pedro
 
-Me chamo João Pedro, sou apaixonado por tecnologia e desenvolvimento de software. Ao longo da minha jornada, venho me aprofundando em diversas ferramentas e linguagens de programação. No momento, estou focado em aprimorar minhas habilidades em **web development**, com ênfase em tecnologias como **PHP**, **HTML**, **CSS**, **JavaScript**, entre outras.
+Me chamo João Pedro, sou apaixonado por tecnologia e desenvolvimento de software. Ao longo da minha jornada, venho me aprofundando em diversas ferramentas e linguagens de programação. No momento, estou focado em aprimorar minhas habilidades em web development, com ênfase em tecnologias como PHP, HTML, CSS, JavaScript e outras.
 
 Se você se interessa por projetos de software e desenvolvimento web, fique à vontade para explorar meus repositórios e contribuições. Estou sempre em busca de aprender e compartilhar conhecimento!
 
@@ -18,11 +18,9 @@ Se você se interessa por projetos de software e desenvolvimento web, fique à v
 
 ### 🤖 Linguagens e Tecnologias
 
-Aqui estão algumas das principais tecnologias com as quais tenho trabalhado:
-
 <img 
     align="left" 
-    alt="HTML" 
+    alt="HTML"
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -61,13 +59,10 @@ Aqui estão algumas das principais tecnologias com as quais tenho trabalhado:
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/><br/>
-
----
+<br/>
+<br/>
 
 ### 📊 Estatísticas
-
-Aqui estão algumas estatísticas sobre meu GitHub:
 
 <p>
   <img 
@@ -80,30 +75,8 @@ Aqui estão algumas estatísticas sobre meu GitHub:
 
   <img 
       align="left" 
-      alt="GitHub Stats"
+      alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroRamos001&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
----
-
-### 🚀 Projetos Recentes
-
-Aqui estão alguns projetos em que estou trabalhando ou que já concluí:
-
-- **Projeto 1**: Descrição do projeto e as tecnologias utilizadas. [Link para o repositório](#).
-- **Projeto 2**: Descrição do projeto e as tecnologias utilizadas. [Link para o repositório](#).
-- **Projeto 3**: Descrição do projeto e as tecnologias utilizadas. [Link para o repositório](#).
-
-Fique à vontade para explorar e contribuir!
-
----
-
-### 📫 Como me encontrar
-
-- **LinkedIn**: [João Pedro no LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-ramos-carneiro-47ba96356/)
-- **E-mail**: joaopedro@email.com
-
----
-
