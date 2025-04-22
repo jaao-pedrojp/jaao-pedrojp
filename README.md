@@ -69,6 +69,6 @@ Se você se interessa por projetos de software e desenvolvimento web, fique à v
       align="left" 
       alt="GitHub Top Langs" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroRamos001&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaao-pedrojp&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
